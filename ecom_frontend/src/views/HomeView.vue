@@ -6,7 +6,7 @@
           Welcome to MyShop!
         </p>
         <p class="subtitle">
-          The best cloth store online!
+          The best cloth store in online!
         </p>
       </div>
     </section>
