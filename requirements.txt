@@ -5,4 +5,4 @@ django-cors-headers
 mysqlclient
 djoser
 pillow
-stripe
+stripe>=9.0.0
